@@ -39,7 +39,7 @@ function transformData(inputFile, outputFile) {
 }
 
 // Specify input and output files
-const inputFile = "./results.json"; // Replace with your input JSON file
+const inputFile = "./results_temp.json"; // Replace with your input JSON file
 const outputFile = "transformed_data.json"; // Output file name
 
 // Call the function to transform the data

@@ -94,8 +94,8 @@ async function fetchCityData(source, destination) {
 (async () => {
   try {
     // Read source and destination files
-    const sourceFile = "source.json"; // Replace with your actual source file
-    const destinationFile = "destination.json"; // Replace with your actual destination file
+    const sourceFile = "./data/source.json"; // Replace with your actual source file
+    const destinationFile = "./data/destination.json"; // Replace with your actual destination file
 
     const sourceData = JSON.parse(fs.readFileSync(sourceFile, "utf-8"));
     const destinationData = JSON.parse(fs.readFileSync(destinationFile, "utf-8"));

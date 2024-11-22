@@ -1,0 +1,930 @@
+{
+  "stanley": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$337.1 K",
+        "Property Tax": "1.02%",
+        "Home Appreciation Rate": "2.4%",
+        "Price Per Square Foot": "$208.05"
+      },
+      "Quality of Life": {
+        "Education": "50",
+        "Healthcare + Fitness": "50",
+        "Weather Grade": "68",
+        "Air Quality Index": "73",
+        "Commute / Transit Score": "54",
+        "Accessibility": "30",
+        "Culture / Entertainment": "22"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.3%",
+        "Recent Job Growth": "2.92%",
+        "Future Job Growth Index": "75",
+        "Median Household Income": "$61.72 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "4.8%",
+        "Utilities": "36",
+        "Food / Groceries": "40",
+        "Sales Tax": "7%",
+        "Transportation Cost": "49"
+      }
+    }
+  },
+  "simi valley": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$864.1 K",
+        "Property Tax": "0.76%",
+        "Home Appreciation Rate": "3.9%",
+        "Price Per Square Foot": "$435.58"
+      },
+      "Quality of Life": {
+        "Education": "82",
+        "Healthcare + Fitness": "99",
+        "Weather Grade": "82",
+        "Air Quality Index": "67",
+        "Commute / Transit Score": "36",
+        "Accessibility": "100",
+        "Culture / Entertainment": "86"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4%",
+        "Recent Job Growth": "-0.16%",
+        "Future Job Growth Index": "61",
+        "Median Household Income": "$112.14 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "37",
+        "Food / Groceries": "56",
+        "Sales Tax": "7.25%",
+        "Transportation Cost": "69"
+      }
+    }
+  },
+  "fromberg": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$343.7 K",
+        "Property Tax": "0.58%",
+        "Home Appreciation Rate": "6.8%",
+        "Price Per Square Foot": "$117.78"
+      },
+      "Quality of Life": {
+        "Education": "51",
+        "Healthcare + Fitness": "51",
+        "Weather Grade": "54",
+        "Air Quality Index": "89",
+        "Commute / Transit Score": "52",
+        "Accessibility": "21",
+        "Culture / Entertainment": "11"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.8%",
+        "Recent Job Growth": "0.6%",
+        "Future Job Growth Index": "75",
+        "Median Household Income": "$57.61 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "37",
+        "Food / Groceries": "39",
+        "Sales Tax": "0%",
+        "Transportation Cost": "53"
+      }
+    }
+  },
+  "santa barbara": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$1.81 M",
+        "Property Tax": "0.53%",
+        "Home Appreciation Rate": "4.4%",
+        "Price Per Square Foot": "$770.04"
+      },
+      "Quality of Life": {
+        "Education": "90",
+        "Healthcare + Fitness": "90",
+        "Weather Grade": "88",
+        "Air Quality Index": "71",
+        "Commute / Transit Score": "43",
+        "Accessibility": "92",
+        "Culture / Entertainment": "93"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.1%",
+        "Recent Job Growth": "0.75%",
+        "Future Job Growth Index": "62",
+        "Median Household Income": "$98.35 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "31",
+        "Food / Groceries": "70",
+        "Sales Tax": "8.75%",
+        "Transportation Cost": "56"
+      }
+    }
+  },
+  "livingston": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$793.3 K",
+        "Property Tax": "2.14%",
+        "Home Appreciation Rate": "6.3%",
+        "Price Per Square Foot": "$346.08"
+      },
+      "Quality of Life": {
+        "Education": "94",
+        "Healthcare + Fitness": "90",
+        "Weather Grade": "63",
+        "Air Quality Index": "69",
+        "Commute / Transit Score": "42",
+        "Accessibility": "21",
+        "Culture / Entertainment": "10"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.3%",
+        "Recent Job Growth": "0.73%",
+        "Future Job Growth Index": "52",
+        "Median Household Income": "$202.62 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5.5%",
+        "Utilities": "39",
+        "Food / Groceries": "63",
+        "Sales Tax": "6.62%",
+        "Transportation Cost": "94"
+      }
+    }
+  },
+  "alpaugh": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$188.2 K",
+        "Property Tax": "0.73%",
+        "Home Appreciation Rate": "-1.1%",
+        "Price Per Square Foot": "$151.93"
+      },
+      "Quality of Life": {
+        "Education": "33",
+        "Healthcare + Fitness": "67",
+        "Weather Grade": "74",
+        "Air Quality Index": "24",
+        "Commute / Transit Score": "40",
+        "Accessibility": "21",
+        "Culture / Entertainment": "10"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "10.2%",
+        "Recent Job Growth": "-0.97%",
+        "Future Job Growth Index": "70",
+        "Median Household Income": "$39.69 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "43",
+        "Food / Groceries": "36",
+        "Sales Tax": "7.75%",
+        "Transportation Cost": "53"
+      }
+    }
+  },
+  "roundup": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$238.2 K",
+        "Property Tax": "0.68%",
+        "Home Appreciation Rate": "1%",
+        "Price Per Square Foot": "$93.05"
+      },
+      "Quality of Life": {
+        "Education": "49",
+        "Healthcare + Fitness": "45",
+        "Weather Grade": "56",
+        "Air Quality Index": "90",
+        "Commute / Transit Score": "59",
+        "Accessibility": "27",
+        "Culture / Entertainment": "20"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.9%",
+        "Recent Job Growth": "1.26%",
+        "Future Job Growth Index": "57",
+        "Median Household Income": "$54.17 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "35",
+        "Food / Groceries": "39",
+        "Sales Tax": "0%",
+        "Transportation Cost": "53"
+      }
+    }
+  },
+  "frazier park": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$321 K",
+        "Property Tax": "0.86%",
+        "Home Appreciation Rate": "1.2%",
+        "Price Per Square Foot": "$213.96"
+      },
+      "Quality of Life": {
+        "Education": "34",
+        "Healthcare + Fitness": "96",
+        "Weather Grade": "64",
+        "Air Quality Index": "33",
+        "Commute / Transit Score": "34",
+        "Accessibility": "26",
+        "Culture / Entertainment": "26"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "7.8%",
+        "Recent Job Growth": "-2.26%",
+        "Future Job Growth Index": "75",
+        "Median Household Income": "$39.21 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "41",
+        "Food / Groceries": "43",
+        "Sales Tax": "8.25%",
+        "Transportation Cost": "64"
+      }
+    }
+  },
+  "billings": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$350.5 K",
+        "Property Tax": "0.91%",
+        "Home Appreciation Rate": "4%",
+        "Price Per Square Foot": "$239.78"
+      },
+      "Quality of Life": {
+        "Education": "80",
+        "Healthcare + Fitness": "72",
+        "Weather Grade": "57",
+        "Air Quality Index": "84",
+        "Commute / Transit Score": "60",
+        "Accessibility": "88",
+        "Culture / Entertainment": "73"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.7%",
+        "Recent Job Growth": "0.6%",
+        "Future Job Growth Index": "69",
+        "Median Household Income": "$69.69 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "33",
+        "Food / Groceries": "46",
+        "Sales Tax": "0%",
+        "Transportation Cost": "36"
+      }
+    }
+  },
+  "hanford": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$340.2 K",
+        "Property Tax": "0.82%",
+        "Home Appreciation Rate": "3.2%",
+        "Price Per Square Foot": "$197.74"
+      },
+      "Quality of Life": {
+        "Education": "52",
+        "Healthcare + Fitness": "59",
+        "Weather Grade": "78",
+        "Air Quality Index": "33",
+        "Commute / Transit Score": "48",
+        "Accessibility": "82",
+        "Culture / Entertainment": "65"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "6.9%",
+        "Recent Job Growth": "-0.71%",
+        "Future Job Growth Index": "64",
+        "Median Household Income": "$73.82 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "46",
+        "Food / Groceries": "43",
+        "Sales Tax": "7.98%",
+        "Transportation Cost": "51"
+      }
+    }
+  },
+  "great falls": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$307 K",
+        "Property Tax": "0.97%",
+        "Home Appreciation Rate": "7.5%",
+        "Price Per Square Foot": "$240.15"
+      },
+      "Quality of Life": {
+        "Education": "72",
+        "Healthcare + Fitness": "63",
+        "Weather Grade": "54",
+        "Air Quality Index": "87",
+        "Commute / Transit Score": "56",
+        "Accessibility": "56",
+        "Culture / Entertainment": "48"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.8%",
+        "Recent Job Growth": "0.64%",
+        "Future Job Growth Index": "49",
+        "Median Household Income": "$58.27 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "31",
+        "Food / Groceries": "45",
+        "Sales Tax": "0%",
+        "Transportation Cost": "37"
+      }
+    }
+  },
+  "onyx": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$231.1 K",
+        "Property Tax": "0.96%",
+        "Home Appreciation Rate": "0.3%",
+        "Price Per Square Foot": "$151.77"
+      },
+      "Quality of Life": {
+        "Education": "46",
+        "Healthcare + Fitness": "93",
+        "Weather Grade": "73",
+        "Air Quality Index": "30",
+        "Commute / Transit Score": "34",
+        "Accessibility": "18",
+        "Culture / Entertainment": "11"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "7.8%",
+        "Recent Job Growth": "-2.26%",
+        "Future Job Growth Index": "81",
+        "Median Household Income": "$25.98 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "46",
+        "Food / Groceries": "33",
+        "Sales Tax": "8.25%",
+        "Transportation Cost": "60"
+      }
+    }
+  },
+  "black eagle": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$198.6 K",
+        "Property Tax": "0.96%",
+        "Home Appreciation Rate": "5.9%",
+        "Price Per Square Foot": "$193.27"
+      },
+      "Quality of Life": {
+        "Education": "58",
+        "Healthcare + Fitness": "68",
+        "Weather Grade": "57",
+        "Air Quality Index": "89",
+        "Commute / Transit Score": "66",
+        "Accessibility": "23",
+        "Culture / Entertainment": "12"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.9%",
+        "Recent Job Growth": "0.64%",
+        "Future Job Growth Index": "43",
+        "Median Household Income": "$61.35 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "30",
+        "Food / Groceries": "39",
+        "Sales Tax": "0%",
+        "Transportation Cost": "39"
+      }
+    }
+  },
+  "bakersfield": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$355.6 K",
+        "Property Tax": "1.04%",
+        "Home Appreciation Rate": "3%",
+        "Price Per Square Foot": "$194.15"
+      },
+      "Quality of Life": {
+        "Education": "56",
+        "Healthcare + Fitness": "91",
+        "Weather Grade": "78",
+        "Air Quality Index": "19",
+        "Commute / Transit Score": "41",
+        "Accessibility": "63",
+        "Culture / Entertainment": "46"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "6.1%",
+        "Recent Job Growth": "-2.26%",
+        "Future Job Growth Index": "74",
+        "Median Household Income": "$73.83 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "43",
+        "Food / Groceries": "45",
+        "Sales Tax": "8.25%",
+        "Transportation Cost": "63"
+      }
+    }
+  },
+  "highwood": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$379 K",
+        "Property Tax": "2.74%",
+        "Home Appreciation Rate": "9.5%",
+        "Price Per Square Foot": "$188.66"
+      },
+      "Quality of Life": {
+        "Education": "90",
+        "Healthcare + Fitness": "95",
+        "Weather Grade": "60",
+        "Air Quality Index": "69",
+        "Commute / Transit Score": "71",
+        "Accessibility": "37",
+        "Culture / Entertainment": "28"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.1%",
+        "Recent Job Growth": "0.14%",
+        "Future Job Growth Index": "65",
+        "Median Household Income": "$105.28 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5%",
+        "Utilities": "33",
+        "Food / Groceries": "41",
+        "Sales Tax": "8.75%",
+        "Transportation Cost": "44"
+      }
+    }
+  },
+  "sunburst": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$127.8 K",
+        "Property Tax": "0.99%",
+        "Home Appreciation Rate": "3.4%",
+        "Price Per Square Foot": "$43.8"
+      },
+      "Quality of Life": {
+        "Education": "55",
+        "Healthcare + Fitness": "40",
+        "Weather Grade": "53",
+        "Air Quality Index": "90",
+        "Commute / Transit Score": "56",
+        "Accessibility": "19",
+        "Culture / Entertainment": "10"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "2.3%",
+        "Recent Job Growth": "-0.21%",
+        "Future Job Growth Index": "47",
+        "Median Household Income": "$78.75 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "24",
+        "Food / Groceries": "39",
+        "Sales Tax": "0%",
+        "Transportation Cost": "30"
+      }
+    }
+  },
+  "auberry": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$355.9 K",
+        "Property Tax": "0.7%",
+        "Home Appreciation Rate": "-3.7%",
+        "Price Per Square Foot": "$203.09"
+      },
+      "Quality of Life": {
+        "Education": "92",
+        "Healthcare + Fitness": "91",
+        "Weather Grade": "76",
+        "Air Quality Index": "35",
+        "Commute / Transit Score": "38",
+        "Accessibility": "20",
+        "Culture / Entertainment": "13"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "7.6%",
+        "Recent Job Growth": "-0.29%",
+        "Future Job Growth Index": "59",
+        "Median Household Income": "$68.32 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "42",
+        "Food / Groceries": "46",
+        "Sales Tax": "7.98%",
+        "Transportation Cost": "58"
+      }
+    }
+  },
+  "ringling": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$42.7 K",
+        "Property Tax": "0.69%",
+        "Home Appreciation Rate": "-7.2%",
+        "Price Per Square Foot": "$30.37"
+      },
+      "Quality of Life": {
+        "Education": "38",
+        "Healthcare + Fitness": "40",
+        "Weather Grade": "63",
+        "Air Quality Index": "75",
+        "Commute / Transit Score": "61",
+        "Accessibility": "22",
+        "Culture / Entertainment": "12"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.9%",
+        "Recent Job Growth": "2.31%",
+        "Future Job Growth Index": "27",
+        "Median Household Income": "$30.75 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "4.8%",
+        "Utilities": "35",
+        "Food / Groceries": "22",
+        "Sales Tax": "9%",
+        "Transportation Cost": "37"
+      }
+    }
+  },
+  "chowchilla": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$349.8 K",
+        "Property Tax": "0.7%",
+        "Home Appreciation Rate": "1%",
+        "Price Per Square Foot": "$195.85"
+      },
+      "Quality of Life": {
+        "Education": "47",
+        "Healthcare + Fitness": "53",
+        "Weather Grade": "73",
+        "Air Quality Index": "44",
+        "Commute / Transit Score": "40",
+        "Accessibility": "32",
+        "Culture / Entertainment": "22"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "7.2%",
+        "Recent Job Growth": "0.05%",
+        "Future Job Growth Index": "52",
+        "Median Household Income": "$67.21 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "43",
+        "Food / Groceries": "43",
+        "Sales Tax": "8.75%",
+        "Transportation Cost": "57"
+      }
+    }
+  },
+  "twin bridges": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$432.6 K",
+        "Property Tax": "0.45%",
+        "Home Appreciation Rate": "0.2%",
+        "Price Per Square Foot": "$335.89"
+      },
+      "Quality of Life": {
+        "Education": "78",
+        "Healthcare + Fitness": "59",
+        "Weather Grade": "51",
+        "Air Quality Index": "86",
+        "Commute / Transit Score": "59",
+        "Accessibility": "21",
+        "Culture / Entertainment": "11"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.2%",
+        "Recent Job Growth": "-0.59%",
+        "Future Job Growth Index": "86",
+        "Median Household Income": "$53.5 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "6.8%",
+        "Utilities": "27",
+        "Food / Groceries": "41",
+        "Sales Tax": "0%",
+        "Transportation Cost": "39"
+      }
+    }
+  },
+  "clovis": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$473.6 K",
+        "Property Tax": "0.89%",
+        "Home Appreciation Rate": "1.1%",
+        "Price Per Square Foot": "$223.4"
+      },
+      "Quality of Life": {
+        "Education": "72",
+        "Healthcare + Fitness": "79",
+        "Weather Grade": "79",
+        "Air Quality Index": "26",
+        "Commute / Transit Score": "41",
+        "Accessibility": "63",
+        "Culture / Entertainment": "49"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.3%",
+        "Recent Job Growth": "-0.29%",
+        "Future Job Growth Index": "77",
+        "Median Household Income": "$98.55 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "44",
+        "Food / Groceries": "45",
+        "Sales Tax": "8.35%",
+        "Transportation Cost": "56"
+      }
+    }
+  },
+  "glencoe": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$1.29 M",
+        "Property Tax": "2.02%",
+        "Home Appreciation Rate": "5.3%",
+        "Price Per Square Foot": "$396.37"
+      },
+      "Quality of Life": {
+        "Education": "96",
+        "Healthcare + Fitness": "100",
+        "Weather Grade": "59",
+        "Air Quality Index": "59",
+        "Commute / Transit Score": "62",
+        "Accessibility": "37",
+        "Culture / Entertainment": "29"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.6%",
+        "Recent Job Growth": "-0.49%",
+        "Future Job Growth Index": "53",
+        "Median Household Income": "$228.75 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5%",
+        "Utilities": "33",
+        "Food / Groceries": "63",
+        "Sales Tax": "9%",
+        "Transportation Cost": "86"
+      }
+    }
+  },
+  "tranquillity": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$275.1 K",
+        "Property Tax": "0.77%",
+        "Home Appreciation Rate": "-2.1%",
+        "Price Per Square Foot": "$207.76"
+      },
+      "Quality of Life": {
+        "Education": "38",
+        "Healthcare + Fitness": "91",
+        "Weather Grade": "76",
+        "Air Quality Index": "34",
+        "Commute / Transit Score": "36",
+        "Accessibility": "21",
+        "Culture / Entertainment": "12"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "7.6%",
+        "Recent Job Growth": "-0.29%",
+        "Future Job Growth Index": "51",
+        "Median Household Income": "$54.63 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "44",
+        "Food / Groceries": "46",
+        "Sales Tax": "7.98%",
+        "Transportation Cost": "62"
+      }
+    }
+  },
+  "vernon hills": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$351.2 K",
+        "Property Tax": "2.66%",
+        "Home Appreciation Rate": "7.5%",
+        "Price Per Square Foot": "$150.1"
+      },
+      "Quality of Life": {
+        "Education": "96",
+        "Healthcare + Fitness": "93",
+        "Weather Grade": "60",
+        "Air Quality Index": "72",
+        "Commute / Transit Score": "63",
+        "Accessibility": "78",
+        "Culture / Entertainment": "66"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.7%",
+        "Recent Job Growth": "0.14%",
+        "Future Job Growth Index": "62",
+        "Median Household Income": "$117.25 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5%",
+        "Utilities": "35",
+        "Food / Groceries": "41",
+        "Sales Tax": "8%",
+        "Transportation Cost": "51"
+      }
+    }
+  },
+  "fresno": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$375.6 K",
+        "Property Tax": "0.77%",
+        "Home Appreciation Rate": "1.6%",
+        "Price Per Square Foot": "$209.51"
+      },
+      "Quality of Life": {
+        "Education": "81",
+        "Healthcare + Fitness": "87",
+        "Weather Grade": "80",
+        "Air Quality Index": "24",
+        "Commute / Transit Score": "44",
+        "Accessibility": "62",
+        "Culture / Entertainment": "51"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "6.3%",
+        "Recent Job Growth": "-0.29%",
+        "Future Job Growth Index": "69",
+        "Median Household Income": "$63 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "46",
+        "Food / Groceries": "45",
+        "Sales Tax": "8.35%",
+        "Transportation Cost": "59"
+      }
+    }
+  },
+  "prospect heights": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$257.2 K",
+        "Property Tax": "2.33%",
+        "Home Appreciation Rate": "10.8%",
+        "Price Per Square Foot": "$113.07"
+      },
+      "Quality of Life": {
+        "Education": "85",
+        "Healthcare + Fitness": "95",
+        "Weather Grade": "64",
+        "Air Quality Index": "52",
+        "Commute / Transit Score": "35",
+        "Accessibility": "37",
+        "Culture / Entertainment": "27"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.6%",
+        "Recent Job Growth": "-0.49%",
+        "Future Job Growth Index": "50",
+        "Median Household Income": "$84.46 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5%",
+        "Utilities": "33",
+        "Food / Groceries": "38",
+        "Sales Tax": "10%",
+        "Transportation Cost": "73"
+      }
+    }
+  },
+  "burlingame": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$2.65 M",
+        "Property Tax": "0.6%",
+        "Home Appreciation Rate": "-1.8%",
+        "Price Per Square Foot": "$1.31 K"
+      },
+      "Quality of Life": {
+        "Education": "97",
+        "Healthcare + Fitness": "95",
+        "Weather Grade": "84",
+        "Air Quality Index": "69",
+        "Commute / Transit Score": "38",
+        "Accessibility": "100",
+        "Culture / Entertainment": "97"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.4%",
+        "Recent Job Growth": "-0.57%",
+        "Future Job Growth Index": "69",
+        "Median Household Income": "$165.94 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "28",
+        "Food / Groceries": "92",
+        "Sales Tax": "9.62%",
+        "Transportation Cost": "95"
+      }
+    }
+  },
+  "carpentersville": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$258.6 K",
+        "Property Tax": "2.3%",
+        "Home Appreciation Rate": "7.8%",
+        "Price Per Square Foot": "$163.94"
+      },
+      "Quality of Life": {
+        "Education": "64",
+        "Healthcare + Fitness": "93",
+        "Weather Grade": "59",
+        "Air Quality Index": "78",
+        "Commute / Transit Score": "55",
+        "Accessibility": "41",
+        "Culture / Entertainment": "29"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "4.7%",
+        "Recent Job Growth": "-0.1%",
+        "Future Job Growth Index": "54",
+        "Median Household Income": "$82.87 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "5%",
+        "Utilities": "35",
+        "Food / Groceries": "35",
+        "Sales Tax": "9%",
+        "Transportation Cost": "52"
+      }
+    }
+  },
+  "south san francisco": {
+    "data": {
+      "Housing Affordability": {
+        "Home Price": "$1.23 M",
+        "Property Tax": "0.6%",
+        "Home Appreciation Rate": "-0.9%",
+        "Price Per Square Foot": "$835.48"
+      },
+      "Quality of Life": {
+        "Education": "87",
+        "Healthcare + Fitness": "99",
+        "Weather Grade": "84",
+        "Air Quality Index": "80",
+        "Commute / Transit Score": "35",
+        "Accessibility": "100",
+        "Culture / Entertainment": "97"
+      },
+      "Job Market Strength": {
+        "Unemployment Rate": "3.3%",
+        "Recent Job Growth": "-0.57%",
+        "Future Job Growth Index": "69",
+        "Median Household Income": "$127.06 K"
+      },
+      "Living Affordability": {
+        "State Income Tax": "9.3%",
+        "Utilities": "29",
+        "Food / Groceries": "72",
+        "Sales Tax": "9.88%",
+        "Transportation Cost": "100"
+      }
+    }
+  }
+}

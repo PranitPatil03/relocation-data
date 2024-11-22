@@ -24,8 +24,8 @@ function splitJsonFile(inputFile, outputFile1, outputFile2) {
 
 // Specify input and output file names
 const inputFile = "./masterId.json"; // Replace with your input JSON file
-const outputFile1 = "source.json"; // First output file
-const outputFile2 = "destination.json"; // Second output file
+const outputFile1 = "./data/source.json"; // First output file
+const outputFile2 = "./data/destination.json"; // Second output file
 
 // Call the function
 splitJsonFile(inputFile, outputFile1, outputFile2);

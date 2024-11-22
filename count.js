@@ -16,7 +16,7 @@ function countItemsInJson(filePath) {
 }
 
 // Specify the file path
-const filePath = 'masterId.json'; // Replace with your JSON file name
+const filePath = './data/source.json'; // Replace with your JSON file name
 
 // Call the function
 countItemsInJson(filePath);
